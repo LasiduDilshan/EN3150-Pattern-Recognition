@@ -9,14 +9,14 @@ This repository contains resources for the **EN3150: Pattern Recognition** cours
 The repository is organized as follows:
 
 ```plaintext
-1_Introduction and Probability Theory/
-2_Linear Models for Regression/
-3_Classification/
-4_Deep Neural Networks/
-6_Kernel Methods/
-7_Unsupervised Learning/
-Assignment_01/
-Assignment_02/
+1_Introduction and Probability Theory
+2_Linear Models for Regression
+3_Classification
+4_Deep Neural Networks
+6_Kernel Methods
+7_Unsupervised Learning
+Assignment_01
+Assignment_02
 README.md
 ```
 
